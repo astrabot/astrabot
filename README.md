@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there!
 
 I'm Aliaksandr, Engineering Manager and iOS Engineer with over 15 years in software development and solid background in mobile apps.
 
@@ -9,9 +9,9 @@ I'm Aliaksandr, Engineering Manager and iOS Engineer with over 15 years in softw
 - Committed to a culture of continuous learning and innovation.
 
 
-### Personal Projects
+## 🛠️ Personal Projects
 
-## Dicty - a viewer application for dictionaries in StarDict format
+### Dicty - a viewer application for dictionaries in StarDict format
 
 App Store: https://apps.apple.com/app/dicty/id969045273
 
@@ -25,7 +25,7 @@ Features:
 - iTunes File Sharing support.
 - Share extension. Allows to translate selected words from other apps.
 
-## xDTU Connect - client for your ESP32 hardware with OpenDTU firmware on board
+### xDTU Connect - client for your ESP32 microcontroller with OpenDTU firmware on board
 
 App Store: https://apps.apple.com/app/xdtu-connect/id6477761541
 
